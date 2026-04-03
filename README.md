@@ -131,6 +131,5 @@ Contributions are welcome! Open issues or PRs anytime.
 
 ---
 
-## 📜 License
-
-MIT License
+## Developer
+Archi Bindal
